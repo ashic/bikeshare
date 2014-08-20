@@ -1,0 +1,7 @@
+bikeshare_cache/
+*.png
+*.jpeg
+Thumbs.db
+pred*.csv
+.Rhistory
+*.html
